@@ -9,7 +9,7 @@
       "marginBottom": 20
     }
   },
-  "type": {
+  "label": {
     "labelText": "Hello, Server-Driven UI!",
     "labelStyle": {
       "fontSize": 20,
