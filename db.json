@@ -1,12 +1,7 @@
 [
   {
     "id": 1,
-    "text": "Hello from server!",
-    "labelStyle": {
-      "fontSize": 20,
-      "color": "blue",
-      "textAlign": "center"
-    }
+    "text": "Hello from server!"
   },
   {
     "id": 2,
