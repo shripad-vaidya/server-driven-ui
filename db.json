@@ -1,12 +1,17 @@
 {
-  "serverdaata": [
+  "serverdata": [
     {
       "id": 1,
-      "text": "Hello from server!"
+      "text": "Hello from server!",
+      "style": {
+        "fontSize": 20,
+        "color": "blue",
+        "textAlign": "center"
+      }
     },
     {
       "id": 2,
-      "text": "hello from shripad"
+      "text": "Hello from Shripad"
     }
   ]
 }
