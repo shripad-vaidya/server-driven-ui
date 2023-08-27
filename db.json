@@ -1,21 +1,15 @@
-{
-  "server_driven_ui":{
-  "img": {
-    "imageURL": "https://example.com/image.jpg",
-    "imageStyle": {
-      "width": 200,
-      "height": 200,
-      "resizeMode": "cover",
-      "marginBottom": 20
-    }
-  },
-  "label": {
-    "labelText": "Hello, Server-Driven UI!",
+[
+  {
+    "id": 1,
+    "text": "Hello from server!",
     "labelStyle": {
       "fontSize": 20,
       "color": "blue",
       "textAlign": "center"
     }
+  },
+  {
+    "id": 2,
+    "text": "This is dynamic content."
   }
-}
-}
+]
