@@ -1,4 +1,5 @@
 {
+  "server_driven_ui":{
   "img": {
     "imageURL": "https://example.com/image.jpg",
     "imageStyle": {
@@ -16,4 +17,5 @@
       "textAlign": "center"
     }
   }
+}
 }
