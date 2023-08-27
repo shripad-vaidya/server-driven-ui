@@ -5,7 +5,7 @@
       "text": "Hello from server!",
       "style": {
         "fontSize": 20,
-        "color": "blue",
+        "color": "green",
         "textAlign": "center"
       }
     },
